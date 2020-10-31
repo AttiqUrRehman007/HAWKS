@@ -1,0 +1,103 @@
+{
+    "Header": {
+
+        "title": "HAWKS Enterprises",
+        "paragraph": "HAWKS Enterprises is emerging multi services enterprise which  is established in the year 2018,  with an objective of rendering all types of Social, Financial, Technical, Management, Advocacy services and providing support in developing, supervising and conducting/executing projects in the Development, Management, Financial and Technical sectors."
+
+    },
+    "About": {
+        "paragraph": "We possesses a wide range of expertise in development and corporate sector having experts with multi years of experience in the field of Research, Capacity building Financial Management, Economic Development, Procurement services, Education Planning and management , HR Solutions, and various other related disciplines to address the national requirements.",
+        "Why": [
+            "Professionalism",
+            "Commitment",
+            "Team work"
+        ],
+        "Why2": [
+            "Excellence",
+            "Integrity",
+            "Dynamic Partnership"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "GENERAL ORDER SUPPLIES",
+            "text": "Our goal is to provide high quality products and services that anticipate the user requirements of tomorrow. We offer a full range of products that are essential to today’s business environment, from office supplies to information equipment and daily necessities."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "PROCUREMENT SUPPORT",
+            "text": "We offer a streamlined and synchronised solution to fulfill all our clients needs. Understanding that quality of service does make a difference, we bring to the fore a simplistic solution for our clients by taking the time to develop a thorough understanding of their business and needs."
+        },
+        {
+            "icon": " fa fa-plane",
+            "name": "LOGISTICS SUPPORT",
+            "text": "We have a large pool of experts who have multi years of experiences in logistic support services.  Based on our extensive experience and track record in the field of logistics, we provide total logistics support from procurement to disassembly , shipping, transporting, warehousing, and delivery."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "RESEARCH & DEVELOPMENT",
+            "text": "HAWKS Enterprises offer tailored research solutions to facilitate organizations in managing their processes and outputs more effectively. We offer a range of approaches based on our clients’ practices and priorities."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "CONSTRUCTION",
+            "text": "HAWKS Enterprises also provides the small scale construction services at community level to the municipalities under local government.  HAWKS Enterprises is enlisted as an approved Class “D” contractor with Local Government under PLG Act-2013 PLG (Works) rules 8 (4) (6) 2017."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "FINANCIAL & AUDIT CONSULTANCY",
+            "text": "We are the team of young and energetic partners having positive approach to provide expert and professional services with due care of professional ethics. We offer fast and reliable services in the field of income tax consultancy, auditing, accountant certification, etc."
+        }
+
+
+    ],
+    "Team": [{
+            "img": "https://res.cloudinary.com/djdec78aj/image/upload/c_scale,w_240/v1604164443/fb517f8913bd99cd48ef00facb4a67c0-businessman-avatar-silhouette-by-vexels_srv7fr.png",
+            "name": "KHALIL UR REHMAN",
+            "job": "Executive Director"
+        },
+        {
+            "img": "https://res.cloudinary.com/djdec78aj/image/upload/c_scale,w_240/v1604164443/fb517f8913bd99cd48ef00facb4a67c0-businessman-avatar-silhouette-by-vexels_srv7fr.png",
+            "name": "RASHID IMRAN",
+            "job": "Director Human Resources"
+        }, {
+            "img": "https://res.cloudinary.com/djdec78aj/image/upload/c_scale,w_240/v1604164443/fb517f8913bd99cd48ef00facb4a67c0-businessman-avatar-silhouette-by-vexels_srv7fr.png",
+            "name": "ASHIQ MAHMOOD",
+            "job": "Tax and Auditing Expert"
+        },
+        {
+            "img": "https://res.cloudinary.com/djdec78aj/image/upload/c_scale,w_240/v1604164443/fb517f8913bd99cd48ef00facb4a67c0-businessman-avatar-silhouette-by-vexels_srv7fr.png",
+            "name": "Saqib Ur Rehman",
+            "job": "Young Executive"
+        }
+    ],
+    "Contact": {
+        "address": "Makhad Road Jand, Attock",
+        "phone": "+92 0302 5158658",
+        "email": "hawksenterprises11@gmail.com",
+        "facebook": "https://web.facebook.com/hawksenterprises11",
+        "twitter": "twitter.com",
+        "instagram": "instagram.com"
+    },
+    "Features": [{
+            "icon": "fa fa-bullhorn",
+            "title": "OUR MISSION",
+            "text": "Our mission is to achieve the reputation of quality, high standard & reliable solution & service Provider enterprises."
+        },
+        {
+            "icon": "fa fa-comments-o",
+            "title": "OUR POLICY",
+            "text": "To take up the challenges of innovation and to respond to market needs as a diversified and multi-faceted enterprises."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "OUR VISION",
+            "text": "Our aim is to be the most esteemed enterprise distinguished for professionalism, Excellence, Standard and Leadership."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "OUR VALUES",
+            "text": "We pride ourselves on the personal attention and exceptional quality of service we provide to each and every client. "
+        }
+    ]
+}
